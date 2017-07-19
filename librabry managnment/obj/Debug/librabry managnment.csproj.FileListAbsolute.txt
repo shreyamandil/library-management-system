@@ -1,0 +1,14 @@
+c:\users\write\documents\visual studio 2015\Projects\librabry managnment\librabry managnment\bin\Debug\librabry managnment.exe.config
+c:\users\write\documents\visual studio 2015\Projects\librabry managnment\librabry managnment\bin\Debug\librabry managnment.exe
+c:\users\write\documents\visual studio 2015\Projects\librabry managnment\librabry managnment\bin\Debug\librabry managnment.pdb
+c:\users\write\documents\visual studio 2015\Projects\librabry managnment\librabry managnment\obj\Debug\librabry_managnment.Form1.resources
+c:\users\write\documents\visual studio 2015\Projects\librabry managnment\librabry managnment\obj\Debug\librabry_managnment.Form2.resources
+c:\users\write\documents\visual studio 2015\Projects\librabry managnment\librabry managnment\obj\Debug\librabry_managnment.Properties.Resources.resources
+c:\users\write\documents\visual studio 2015\Projects\librabry managnment\librabry managnment\obj\Debug\librabry managnment.csproj.GenerateResource.Cache
+c:\users\write\documents\visual studio 2015\Projects\librabry managnment\librabry managnment\obj\Debug\librabry managnment.exe
+c:\users\write\documents\visual studio 2015\Projects\librabry managnment\librabry managnment\obj\Debug\librabry managnment.pdb
+c:\users\write\documents\visual studio 2015\Projects\librabry managnment\librabry managnment\obj\Debug\librabry managnment.csprojResolveAssemblyReference.cache
+c:\users\write\documents\visual studio 2015\Projects\librabry managnment\librabry managnment\obj\Debug\librabry_managnment.Form3.resources
+C:\Users\write\documents\visual studio 2015\Projects\librabry managnment\librabry managnment\obj\Debug\librabry_managnment.registration_form.resources
+C:\Users\write\documents\visual studio 2015\Projects\librabry managnment\librabry managnment\obj\Debug\librabry_managnment.staff_form.resources
+C:\Users\write\documents\visual studio 2015\Projects\librabry managnment\librabry managnment\obj\Debug\librabry_managnment.book_view.resources
